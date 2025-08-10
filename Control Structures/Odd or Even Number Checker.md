@@ -1,5 +1,6 @@
-//Check whether the given number is odd or even
+## Check whether the given number is odd or even
 
+```bash
 #include <stdio.h>
 
 int main() {
@@ -14,3 +15,4 @@ int main() {
 
     return 0;
 }
+```
