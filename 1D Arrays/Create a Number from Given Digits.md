@@ -1,4 +1,6 @@
-## Write a C program to enter number of digits and create a number using this digit. [Hint: Enter number of digits: 3, Enter units’ place digit: 1, Enter tens place digit: 2, Enter hundreds place digit: 5; The number is 521] 
+## Write a C program to enter number of digits and create a number using this digit. 
+
+###[Hint: Enter number of digits: 3, Enter units’ place digit: 1, Enter tens place digit: 2, Enter hundreds place digit: 5; The number is 521] 
 
 ```bash
 #include <stdio.h>
