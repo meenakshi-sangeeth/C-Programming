@@ -1,4 +1,4 @@
-### Search the position of the number that is entered by the user and delete that particular number from the array and display the resultant array elements. 
+## Search the position of the number that is entered by the user and delete that particular number from the array and display the resultant array elements. 
 
 ```bash
 #include <stdio.h>
