@@ -1,4 +1,4 @@
-## Display whether a given matrix is symmetric or not
+### Display whether a given matrix is symmetric or not
 
 ```bash
 #include <stdio.h>
